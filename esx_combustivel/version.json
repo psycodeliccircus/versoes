@@ -1,0 +1,8 @@
+{
+  "version":"0.0.5",
+  "patchnote" : [
+    "- Corrigir problemas com motos.",
+    "- Alterando uma condição no arquivo vehicle.lua.",
+    "- Corrigindo os nativos SetVehicleUndriveable e SetVehicleEngineOn na inicialização do veículo (vehicle.lua)."
+  ]
+}
